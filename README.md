@@ -15,8 +15,6 @@
 
 - 🌻 Start with a smile on each project you want to finish 🙂
 
-- 📫 How to reach me **.niels_ (Discord)**
-
 - ⚡ Fun fact **I can hate something so bad i get obsessed with it**
 
 <h4 align="left">Languages and Tools:</h4>
