@@ -4,7 +4,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/itsnielsje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="penguindevs" height="30" width="40" /> <b>@itsnielsje</b> </a>
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /> <b>adalie_</b> </a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /> <b>Rensora._.</b> </a>
 </p>
 
 <img aling="right." alt="coding" width="400" src="https://ehhudson.files.wordpress.com/2019/05/catcomputer2.gif?w=584">
