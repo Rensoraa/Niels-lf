@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Niels</h1>
+<h1 align="center">Hi, I'm Rensora</h1>
 <h2 align="center">A developer from Belgium</h2>
 
 <h3 align="left">Socials:</h3>
@@ -11,7 +11,7 @@
 
 - 🔭 Expanding my interest in different languages
 
-- 👯 Translator for [ValoTracker](https://www.valotracker.com) (Responsible languages (Dutch, Hindi))
+- 👯 Lead Translator for [ValoTracker](https://www.valotracker.com) (Responsible languages (Dutch))
 
 - 🌻 Start with a smile on each project you want to finish 🙂
 
